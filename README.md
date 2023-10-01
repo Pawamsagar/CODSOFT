@@ -21,3 +21,12 @@ weather app
 
 
 ![image](https://github.com/Pawamsagar/CODSOFT/assets/103252804/49486ce8-a871-430a-9129-433ebd51e74d)
+
+
+
+
+password genrator
+
+
+
+![image](https://github.com/Pawamsagar/CODSOFT/assets/103252804/32ef6c9c-77a3-442a-865c-4f36bf63bc33)
